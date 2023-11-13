@@ -1,9 +1,10 @@
 # SSD serdah 1 course
+This Repository shall contains some samples for this course. For example, this shall includ:
 
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+-Markdown
+-AsciiDoc
+-Word Documents
 
 
-- markdown
-- serdah
-- word
+
 
