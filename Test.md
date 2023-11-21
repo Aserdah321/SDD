@@ -22,3 +22,12 @@ Latin words, combined with a handful of model sentence structures, to generate L
 [visit Google](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fasu-logo%2F&psig=AOvVaw3e1mCNrxBYovN0QoNaLMhU&ust=1700471397029000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiSx_Lpz4IDFQAAAAAdAAAAABAD)
 
 ![download (1)](https://github.com/Aserdah321/SDD/assets/148858089/c65ec5bb-47ff-46f8-bd13-3662c3adbaea)
+
+# Tabel
+
+| Head1 |  Head1 |
+|-----|-----|
+|serdah|serdah|
+|serdah|serdah|
+|serdah|serdah|
+|-----|-----|
